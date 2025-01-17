@@ -21,7 +21,7 @@ class area
 int main()
 {
     int l,b;
-    cout<< "enter length and breath"<< endl;
+    cout<< "enter length and breath   "<< endl;
     cin >> l >> b;
     area meorb;
     meorb.get_area(l,b);
