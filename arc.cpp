@@ -25,5 +25,5 @@ int main()
     cin >> l >> b;
     area meorb;
     meorb.get_area(l,b);
-    cout<< "the area is " << meorb.calc_area(l,b) << endl;
+    cout<< "the area is " << meorb.calc_area(l,b) << endl ;
 }
